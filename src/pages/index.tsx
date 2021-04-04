@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react"
 
-import styles from './styles.module.scss';
+import { page } from "./styles.module.scss"
 
-const IndexPage: React.FunctionComponent = () => <div className={styles.page} />
+const IndexPage: React.FunctionComponent = () => <div className={page} />
 
 export default IndexPage
