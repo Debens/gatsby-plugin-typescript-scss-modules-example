@@ -6,7 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "css-loader": "5.1.2",
-    "gatsby": "^3.0.4",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^3.0.0",
     "gatsby-plugin-manifest": "^3.0.0",
     "gatsby-plugin-offline": "^4.0.0",
